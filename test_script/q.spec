@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['q.py'],
-             pathex=['/home/hhy/Desktop/Just-for-test/test_script'],
+             pathex=['/home/hhy/java_workspace/ADIS/Just-for-test/test_script'],
              binaries=None,
              datas=None,
              hiddenimports=[],
